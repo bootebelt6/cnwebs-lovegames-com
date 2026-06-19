@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bootebelt6.github.io/cnwebs-lovegames-com/sitemap.xml
